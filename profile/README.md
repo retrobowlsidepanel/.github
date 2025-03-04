@@ -1,4 +1,5 @@
 # Retro Bowl Side Panel
+![Promo 440x280 (2)](https://github.com/user-attachments/assets/abae9030-5131-4e89-bb35-0d909dfeabd4)
 
 A Chrome extension that allows you to play **Retro Bowl** in a convenient side panel, making it easy to enjoy the game while browsing the web.
 
